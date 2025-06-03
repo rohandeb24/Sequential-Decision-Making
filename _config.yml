@@ -1,0 +1,13 @@
+
+title: "Sequential Decision Making"
+description: "Course on sequential decision making algorithms, including bandits and reinforcement learning."
+url: ""  # Fill in with your GitHub Pages URL
+theme: minima
+author:
+  name: "Instructor Name"
+  email: "instructor@example.com"
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
